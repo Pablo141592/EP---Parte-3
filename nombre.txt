@@ -1,0 +1,11 @@
+arroz
+leche
+huevo
+azucar
+mantequilla
+mermelada
+jamonada
+aceite
+mayonesa
+mostaza
+tomate
